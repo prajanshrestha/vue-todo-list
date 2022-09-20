@@ -1,0 +1,8 @@
+{
+    "todo-lists": [
+      { "task": "Make bed", "id": 1 },
+      { "task": "Exercise", "id": 2 },
+      { "task": "Prepare breakfast", "id": 3 },
+      { "task": "Call mom", "id": 4 }
+    ]
+  }
