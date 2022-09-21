@@ -12,7 +12,8 @@ const routes = [
   {
     path: '/todoList',
     name: 'ToDoList',
-    component: ToDoList
+    component: ToDoList,
+    props: true
   },
   // catch all 404
   {

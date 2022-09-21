@@ -1,8 +1,17 @@
 {
-    "todo-lists": [
-      { "task": "Make bed", "id": 1 },
-      { "task": "Exercise", "id": 2 },
-      { "task": "Prepare breakfast", "id": 3 },
-      { "task": "Call mom", "id": 4 }
-    ]
-  }
+  "todo-lists": [
+    {
+      "task": "Make bed",
+      "status": "to-do",
+      "id": 1
+    },
+    {
+      "task": "Exercise",
+      "status": "to-do",
+      "id": 2
+    },
+    {
+      "id": 3
+    }
+  ]
+}
